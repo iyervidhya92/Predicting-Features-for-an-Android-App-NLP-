@@ -1,0 +1,81 @@
+runfile('C:/Users/HakunaMatata/Documents/sample2.py', wdir='C:/Users/HakunaMatata/Documents')
+========
+
+Group
+0
+========
+
+When it works it is very intuitive by Gwen74
+The app is very intuitive for the most part and used to work very well. Alas, when I save an article I have no way to find it again. 
+It does not appear in my saved articles online or anywhere else where I can find it. 
+In addition, lately when I select an article to read it just opens a blank page. No idea why, this doesn't happen on my iPad 3.
+========
+
+Group
+1
+========
+
+Slow, crash prone and inconsistent top stories vs print by Worst major news app
+Bloomberg far superior
+Usability issue by Mr. R_
+Content is wonderful. However, the app still has these issues:1. Freezes if it does not have a good connection.2. Will not display articles even after they are downloaded if connection is weak.3. It decides to download while you are reading an article then it resets to the home page.4. Navigation button does nothing about 20% of the time. Have to restart my phone to get to front page.
+Terrible crash/freeze problems by seadream0109
+Using iPhone latest iOS, app freezes every 2nd opening. Have to force quit it then restart it to get it working again. Very annoying, should be fixed!
+WSJ App by Prof51
+It still crashes way too often.
+Crashes and then freezes iPad all the time by Cs987
+In ios7, the wsj app constantly crashes and then freezes my iPad for upwards of 5 min. Great paper and I've been a reader for 25 years but the app performance is really disappointing and a huge issue.
+Crashmaster by Khyerbanogg
+Classic for this app, version 5.5.5 was supposed to fix crash on launch. Instead, it gave me that exact behavior. Still frequent lockups, too frequent checks for news that slow down reading or advancing pages. They don't seem to understand that there is value in reading well written stories that are the result of good journalism instead of the latest headline or hurried half understood breaking story.
+App crashes all the time by Usermetoo
+Recently installed update and now the app crashes all the time.
+Almost unusable by Newshound99999
+Download takes forever and is unpredictable...sometimes the download just stops. The app freezes regularly...don't cancel your paper subscription.
+Terrible Ap by Cardage
+Despite the promise that the update will fix crashes, the APP still crashes regularly. It remains the worst app on my iPad. Truly a shame.
+App Icon Image not updating by RangerFan86
+The app icon image isn't updating!!!
+Content download issues by Polynome
+Download of the content works slow and inconsistent. Download should not stop when iPad goes into the sleep mode. Today I spent over 10 min downloading two issues, i have to keep iPad on, the update indicator shows download complete but when i try to open it without Internet connection the whole app closes. Often some of the sections get downloaded but the other don't and there is no indication until you try to open an article. Then the whole app closes. The users should have an option to move the app in or out of newsstand.After I downloaded the latest update to iPad the latest issues don't download at all. Download is stuck on the weekend edition.
+Used to be good by LovedMy][+
+Recent app updates have resulted in stuck content (stories remain on pages for weeks or months - and new content from the same blog on the website is never added to the app), duplicate content entries (the same stories shows up in multiple pages in the app), flooding of the US news section with NY specific stories (which used to be in a separate NY section so we could ignore them), and frequent failures to load pages. They need to revert back to the version from last fall - it was much more stable.
+Fantastic Publication - Horrible App! by BP407
+The WSJ is wonderful. This app however is NOT. I used to love it, now each update is worse than the prior. Prior days issues no longer load on the screen with the most recent update. If it weren't for the phenomenal writing content I'd drop this app in a heartbeat. Please quit tarnishing your reputation and put out a quality product that's more fitting for a world class publication.
+Kept crushing... by asupls1981
+Can someone fix it? Thx
+Latest Update (Feb 2014) by JCP433
+This update mostly eliminated the screen freezes for me. However, now it just quits after accessing stories. I seldom ever finish perusing the WSJ before the app just quits. Sometimes I re-enter to finish the edition, sometimes I just give up.NOTE TO WSJ AND DEVELOPERS: We pay a lot for this subscription. At some point, we hope to get what we pay for.UPDATE Feb 18, 2014: Just downloaded "latest fix" from yesterday's updates. Was really excited to see it acting mostly like it should... Until the last section (local NY news). Half way through, the program quit. (Sigh). Great beta testing, folks.
+Happy Days by Kenole
+Finally, for the first time in months, I read a whole edition without freezing or crashing. I am more than happy. Great job fixing this!!!
+It crashes all the time on my iPad by victorwashere
+The content is great, this is my favorite newspaper. However the app crashes all the time, unexpectedly closing. I have an old iPad but it doesn't justify.
+
+========
+Version
+========
+
+['Fixed network availability crashes \n']
+['Fixed crashes while swiping front section pages \n']
+['Fixed missing Newsstand icon on iPhone \n']
+['Fixed crashes on iPad while reading articles\n']
+['Fixes for other crashes should be available.']
+
+========
+Cluster Topics
+========
+
+["When it works it is very intuitive by Gwen74\nThe app is very intuitive for the most part and used to work very well. Alas, when I save an article I have no way to find it again. It does not appear in my saved articles online or anywhere else where I can find it. In addition, lately when I select an article to read it just opens a blank page. No idea why, this doesn't happen on my iPad 3.", 'Slow, crash prone and inconsistent top stories vs print by Worst major news app\nBloomberg far superior', 'Usability issue by Mr. R_\nContent is wonderful. However, the app still has these issues:1. Freezes if it does not have a good connection.2. Will not display articles even after they are downloaded if connection is weak.3. It decides to download while you are reading an article then it resets to the home page.4. Navigation button does nothing about 20% of the time. Have to restart my phone to get to front page.', 'Terrible crash/freeze problems by seadream0109\nUsing iPhone latest iOS, app freezes every 2nd opening. Have to force quit it then restart it to get it working again. Very annoying, should be fixed!', 'WSJ App by Prof51\nIt still crashes way too often.', "Crashes and then freezes iPad all the time by Cs987\nIn ios7, the wsj app constantly crashes and then freezes my iPad for upwards of 5 min. Great paper and I've been a reader for 25 years but the app performance is really disappointing and a huge issue.", "Crashmaster by Khyerbanogg\nClassic for this app, version 5.5.5 was supposed to fix crash on launch. Instead, it gave me that exact behavior. Still frequent lockups, too frequent checks for news that slow down reading or advancing pages. They don't seem to understand that there is value in reading well written stories that are the result of good journalism instead of the latest headline or hurried half understood breaking story.", 'App crashes all the time by Usermetoo\nRecently installed update and now the app crashes all the time.', "Almost unusable by Newshound99999\nDownload takes forever and is unpredictable...sometimes the download just stops. The app freezes regularly...don't cancel your paper subscription.", 'Terrible Ap by Cardage\nDespite the promise that the update will fix crashes, the APP still crashes regularly. It remains the worst app on my iPad. Truly a shame.', "App Icon Image not updating by RangerFan86\nThe app icon image isn't updating!!!", "Content download issues by Polynome\nDownload of the content works slow and inconsistent. Download should not stop when iPad goes into the sleep mode. Today I spent over 10 min downloading two issues, i have to keep iPad on, the update indicator shows download complete but when i try to open it without Internet connection the whole app closes. Often some of the sections get downloaded but the other don't and there is no indication until you try to open an article. Then the whole app closes. The users should have an option to move the app in or out of newsstand.After I downloaded the latest update to iPad the latest issues don't download at all. Download is stuck on the weekend edition.", 'Used to be good by LovedMy][+\nRecent app updates have resulted in stuck content (stories remain on pages for weeks or months - and new content from the same blog on the website is never added to the app), duplicate content entries (the same stories shows up in multiple pages in the app), flooding of the US news section with NY specific stories (which used to be in a separate NY section so we could ignore them), and frequent failures to load pages. They need to revert back to the version from last fall - it was much more stable.', "Fantastic Publication - Horrible App! by BP407\nThe WSJ is wonderful. This app however is NOT. I used to love it, now each update is worse than the prior. Prior days issues no longer load on the screen with the most recent update. If it weren't for the phenomenal writing content I'd drop this app in a heartbeat. Please quit tarnishing your reputation and put out a quality product that's more fitting for a world class publication.", 'Kept crushing... by asupls1981\nCan someone fix it? Thx', 'Latest Update (Feb 2014) by JCP433\nThis update mostly eliminated the screen freezes for me. However, now it just quits after accessing stories. I seldom ever finish perusing the WSJ before the app just quits. Sometimes I re-enter to finish the edition, sometimes I just give up.NOTE TO WSJ AND DEVELOPERS: We pay a lot for this subscription. At some point, we hope to get what we pay for.UPDATE Feb 18, 2014: Just downloaded "latest fix" from yesterday\'s updates. Was really excited to see it acting mostly like it should... Until the last section (local NY news). Half way through, the program quit. (Sigh). Great beta testing, folks.', 'Happy Days by Kenole\nFinally, for the first time in months, I read a whole edition without freezing or crashing. I am more than happy. Great job fixing this!!!', "It crashes all the time on my iPad by victorwashere\nThe content is great, this is my favorite newspaper. However the app crashes all the time, unexpectedly closing. I have an old iPad but it doesn't justify."]
+["New app frozen on front page by Aggravation225\nLatest update a non starter. Can't flip pages, open feature articles or sidebar articles. Only functionality is ability to scroll the sidebar, otherwise, frozen."]
+
+========
+Comparison between Cluster topics and Version topics
+========
+
+version ['Fixed crashes while swiping front section pages \n']
+cluster [(0, u'0.034*"app" + 0.014*"update" + 0.014*"download" + 
+0.012*"crash" + 0.012*"ipad" + 0.011*"work" + 0.011*"latest" + 0.009*"freeze" + 0.009*"article" + 0.009*"story"'), 
+(1, u'0.031*"app" + 0.017*"update" + 0.016*"page" + 0.010*"story" + 0.010*"ipad" + 0.010*"article" + 0.010*"load" + 
+0.009*"time" + 0.009*"section" + 0.009*"sometimes"')]
+
+topic comparison distance between version and reviews
+0.74293967646
